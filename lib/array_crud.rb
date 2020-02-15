@@ -11,7 +11,7 @@ end
 
 def add_element_to_end_of_array(array, element)
   binding.pry
-  my_array.push(5)
+  my_array.push()
   
 end
 
