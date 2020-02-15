@@ -1,7 +1,7 @@
 require 'pry'
 
 def create_an_empty_array
-  my_array = Array.new
+  []
   
 end
 
