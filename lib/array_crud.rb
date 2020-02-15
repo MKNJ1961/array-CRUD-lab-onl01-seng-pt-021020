@@ -6,7 +6,6 @@ def create_an_empty_array
 end
 
 def create_an_array
-  # binding.pry
   my_array = Array.new [4, 3, 2, 1]
 end
 
